@@ -5,9 +5,8 @@
 // BANKIST APP
 
 ///////////////////
-
 const account1 = {
-  owner: 'Jonas Schmedtmann',
+  owdner: 'Jonas Schmedtmann',
   movements: [200, 455.23, -306.5, 25000, -642.21, -133.9, 79.97, 1300],
   interestRate: 1.2, // %
   pin: 1111,
@@ -21,7 +20,7 @@ const account1 = {
     '2020-07-26T17:01:17.194Z',
     '2020-07-28T23:36:17.929Z',
     '2020-08-01T10:51:36.790Z',
-  ],
+  ],s
   currency: 'EUR',
   locale: 'pt-PT', // de-DE
 };
